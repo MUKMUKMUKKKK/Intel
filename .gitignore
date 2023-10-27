@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/.vs
+/start1/start1
+/start1/x64/Debug
+/start1/.vs/start1
